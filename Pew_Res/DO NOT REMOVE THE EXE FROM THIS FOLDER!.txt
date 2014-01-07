@@ -1,0 +1,2 @@
+This folder contains hidden resource files including the games graphics, sounds, and Java libraries.
+Removing the exe from this folder will seperate these files, causing an error on startup!

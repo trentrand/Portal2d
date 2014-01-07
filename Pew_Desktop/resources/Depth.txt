@@ -1,0 +1,8 @@
+pbBullet = 99;
+prBullet = 99;
+Character Player = 100
+Portal_Gun = 101
+Tile_Spike = 104
+Portals = 105
+Spring_Up = 115
+Text = 1000 
